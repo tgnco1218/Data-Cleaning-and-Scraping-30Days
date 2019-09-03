@@ -7,6 +7,7 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 
 打醬油剛(蹣跚)完成第二屆機器學習百日馬拉松，想藉IT邦幫忙30日鐵人賽重點複習資料清理的部分，並爬取有興趣的數據來實際操作。
 
+### Content 目錄
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day01_Jupyter_Notebook/Day01%20Jupyter%20Notebook%20Jupyter%20Notebook%E5%9F%BA%E6%9C%AC%E5%AE%89%E8%A3%9D%E8%88%87%E6%93%8D%E4%BD%9C.ipynb">Day01 Jupyter Notebook. Jupyter Notebook基本安裝與操作</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day02_What_is_EDA/Day02%20What%20is%20EDA%20(Exploratory%20Data%20Analysis)%20%E6%B7%BA%E8%AB%87%E4%BD%95%E8%AC%82%E6%8E%A2%E7%B4%A2%E5%BC%8F%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90.ipynb">Day02 What is EDA (Exploratory Data Analysis)? 淺談何謂探索式資料分析</a>
