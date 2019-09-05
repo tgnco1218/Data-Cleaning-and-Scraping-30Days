@@ -26,9 +26,6 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day09_Data_Visualization_with_Pandas/Day09%20Basic%20Data%20Visualizations%20with%20Pandas%202of2.ipynb">Day09 Basic Data Visualizations with Pandas 2/2. Pandas視覺化資料基礎 2/2</a>
 
-<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day10_Data_Visualization_Tools_Matplotlib/Day10%20Data%20Visualization%20Tools%20Matplotlib.ipynb">
-Day10 Data Visualization Tools: Matplotlib 視覺化資料工具：Matplotlib</a>
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day10_Data_Visualization_Tools_Matplotlib/Day10%20Data%20Visualization%20Tools%20Matplotlib.ipynb">Day10 Data Visualization Tools: Matplotlib 視覺化資料工具：Matplotlib</a>
 
-
-<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day11_Data_Visualization_Tools_Plotly/Day11%20Data%20Visualization%20Tools%20Plotly.ipynb">
-Day11 Data Visualization Tools: Plotly. 視覺化資料工具：Plotly</a>
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day11_Data_Visualization_Tools_Plotly/Day11%20Data%20Visualization%20Tools%20Plotly.ipynb">Day11 Data Visualization Tools: Plotly. 視覺化資料工具：Plotly</a>
