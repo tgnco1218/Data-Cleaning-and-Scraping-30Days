@@ -32,3 +32,5 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day12_Data_Visualization_Tools_Seaborn/Day12%20Data%20Visualization%20Tools%20Seaborn.ipynb">
 Day12 Data Visualization Tools: Seaborn. 視覺化資料工具：Seaborn</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day13_Converting_Continuous_Variable_into_Discrete_Values/Day13%20Converting%20Continuous%20Variables%20into%20Discrete%20Values.ipynb">Day13 Converting Continuous Variables into Discrete Values 連續型變數離散化</a>
