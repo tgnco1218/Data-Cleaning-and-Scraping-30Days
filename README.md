@@ -35,3 +35,5 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day13_Converting_Continuous_Variable_into_Discrete_Values/Day13%20Converting%20Continuous%20Variables%20into%20Discrete%20Values.ipynb">Day13 Converting Continuous Variables into Discrete Values 連續型變數離散化</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day14_Feature_Engineering_Kurtosis_and_Skewness/Day14%20Feature%20Engineering%20Kurtosis%20and%20Skewness%20.ipynb">Day14 Feature Engineering, Kurtosis and Skewness 淺談特徵工程、峰度與偏度</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day15_Numerical_Data_1of2_replace_NA_or_outlier/Day15%20Numerical%20Data%201of2%20replace%20NA%20or%20outlier.ipynb">Day15 Numerical Data 1/2 replace N/A or outlier  數值型特徵 1/2 填補N/A與離群值</a>
