@@ -39,3 +39,6 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day15_Numerical_Data_1of2_replace_NA_or_outlier/Day15%20Numerical%20Data%201of2%20replace%20NA%20or%20outlier.ipynb">Day15 Numerical Data 1/2 replace N/A or outlier  數值型特徵 1/2 填補N/A與離群值</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day16_Numerical_Data_2of2_reduce_skewness/Day16%20Numerical%20Data%202of2%20reduce%20skewness%20.ipynb">Day16 Numerical Data 2/2 reduce skewness 數值型特徵 2/2 去除偏態</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day17_Categorical_Data_1of2_mean_encoding/Day17%20Categorical%20Data%201of2%20mean%20encoding.ipynb">
+Day17 Categorical Data 1/2 mean encoding 類別型特徵 1/2 均值編碼</a>
