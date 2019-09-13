@@ -40,7 +40,6 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day16_Numerical_Data_2of2_reduce_skewness/Day16%20Numerical%20Data%202of2%20reduce%20skewness%20.ipynb">Day16 Numerical Data 2/2 reduce skewness 數值型特徵 2/2 去除偏態</a>
 
-<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day17_Categorical_Data_1of2_mean_encoding/Day17%20Categorical%20Data%201of2%20mean%20encoding.ipynb">
-Day17 Categorical Data 1/2 mean encoding 類別型特徵 1/2 均值編碼</a>
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day17_Categorical_Data_1of2_mean_encoding/Day17%20Categorical%20Data%201of2%20mean%20encoding.ipynb">Day17 Categorical Data 1/2 mean encoding 類別型特徵 1/2 均值編碼</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day18_Categorical_Data_2of2_counting_and_feature_hashing/Day18%20Categorical%20Data%202of2%20counting%20and%20feature%20hashing.ipynb">Day18 Categorical Data 2/2 counting and feature hashing 類別型特徵 2/2 計數編碼與特徵雜湊</a>
