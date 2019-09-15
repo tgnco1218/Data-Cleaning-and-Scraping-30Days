@@ -45,3 +45,6 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day18_Categorical_Data_2of2_counting_and_feature_hashing/Day18%20Categorical%20Data%202of2%20counting%20and%20feature%20hashing.ipynb">Day18 Categorical Data 2/2 counting and feature hashing 類別型特徵 2/2 計數編碼與特徵雜湊</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day19_Time_Series_Feature/Day19%20Time%20Series%20Feature.ipynb">Day19 Time Series Feature 時間型特徵</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day20_Airbnb_%20in_Berlin_1of5_booking_rate/Day20%20Airbnb%20in%20Berlin%201of5%20booking%20rate.ipynb">
+Day20 Airbnb in Berlin 1/5 booking rate 柏林Airbnb 1/5 訂房率</a>
