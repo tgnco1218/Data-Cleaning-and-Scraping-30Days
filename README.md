@@ -49,3 +49,6 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day20_Airbnb_%20in_Berlin_1of5_booking_rate/Day20%20Airbnb%20in%20Berlin%201of5%20booking%20rate.ipynb">Day20 Airbnb in Berlin 1/5 booking rate 柏林Airbnb 1/5 訂房率</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day21_Airbnb_in_Berlin_2of5_listings_overview/Day21%20Airbnb%20in%20Berlin%202of5%20listings%20overview.ipynb">Day21 Airbnb in Berlin 2/5 listings overview 柏林Airbnb 2/5 房源概述</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day22_Airbnb_in_Berlin_3of5_the_ring_zone/Day22%20Airbnb%20in%20Berlin%203of5%20the%20ring%20zone%20.ipynb">Day22 Airbnb in Berlin 3/5 the ring zone 柏林Airbnb 3/5 蛋黃區</a>
+
