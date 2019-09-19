@@ -56,4 +56,4 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day24_Airbnb_in_Berlin_5of5_the_ring_zone_summary/Day24%20Airbnb%20in%20Berlin%205of5%20the%20ring%20zone%20summary.ipynb">Day24 Airbnb in Berlin 5/5 the ring zone summary 柏林Airbnb 5/5 蛋黃區房源分析小結</a>
 
-<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day25_Beautiful_Soup_Try_Out_Stepstone_Posting/Day25%20Beautiful%20Soup%20Try%20Out%20Stepstone%20Posting.ipynb">Day25 Beautiful Soup Try Out: Stepstone Posting 美味的湯爬蟲初體驗：達石職缺</a>
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day25_Beautiful_Soup_Try_Out_Stepstone_Posting/Day25%20Beautiful%20Soup%20Try%20Out%20Stepstone%20Posting.ipynb">Day25 Beautiful Soup Try Out: Stepstone Posting 美麗的湯爬蟲初體驗：達石職缺</a>
