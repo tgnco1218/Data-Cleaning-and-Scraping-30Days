@@ -59,3 +59,5 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day25_Beautiful_Soup_Try_Out_Stepstone_Posting/Day25%20Beautiful%20Soup%20Try%20Out%20Stepstone%20Posting.ipynb">Day25 Beautiful Soup Try Out: Stepstone Posting 美麗的湯爬蟲初體驗：達石職缺</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day26_Stepstone_Posting/Day26%20Stepstone%20Posting.ipynb">Day26 Stepstone Posting 達石職缺</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day27_BS4_Scrape_from_Youtube_1of2/Day27%20BS4%20Scrape%20from%20Youtube%201of2%20.ipynb">Day27 BS4 Scrape from Youtube 1/2 用美麗的湯爬取Youtube 1/2</a>
