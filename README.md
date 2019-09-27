@@ -63,3 +63,7 @@ Just finished my 100 days challenge on machine learning basics and feel like I n
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day27_BS4_Scrape_from_Youtube_1of2/Day27%20BS4%20Scrape%20from%20Youtube%201of2%20.ipynb">Day27 BS4 Scrape from Youtube 1/2 用美麗的湯爬取Youtube 1/2</a>
 
 <a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day28_BS4_Scrape_from_Youtube_2of2/Day28%20BS4%20Scrape%20from%20Youtube%202of2.ipynb">Day28 BS4: Scrape from Youtube 2/2 用美麗的湯爬取Youtube 2/2</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day29_Scraping_from_IMDb_with_Selenium_1of2/Day29%20Scraping%20from%20IMDb%20with%20Selenium%201of2.ipynb">Day29 Scraping from IMDb with Selenium 1/2 用Selenium爬取IMDb 1/2</a>
+
+<a href="https://github.com/tgnco1218/Data-Cleaning-and-Scraping-30Days/blob/master/Day30_Scraping_from_IMDb_with_Selenium_2of2/Day30%20Scraping%20from%20IMDb%20with%20Selenium%202of2.ipynb">Day30 Scraping from IMDb with Selenium 2/2 用Selenium爬取IMDb 2/2/a>
